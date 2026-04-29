@@ -1,3 +1,4 @@
+
 # 6S Li-Ion Analog Battery Level Indicator 🔋
 
 An analog, MCU-free battery level indicator designed specifically for a 6S Lithium-Ion power bank (optimized for cells like the ASPİLSAN INR18650A28). The circuit reads the battery pack's voltage and displays the remaining capacity using four SMD LEDs. 
@@ -34,13 +35,14 @@ Since the exact calculated resistor values are sometimes hard to source, this PC
 
 ### Circuit Schematic
 ![Schematic](images/schematic.png)
-*Designed using Proteus.*
+<img width="1053" height="521" alt="Ekran görüntüsü 2026-04-30 003648" src="https://github.com/user-attachments/assets/019d69d5-ece4-41e3-9b48-c4bab6c105eb" />
 
 ### PCB Layout (2D)
-![PCB Layout](images/pcb_2d.png)
+<img width="648" height="604" alt="Ekran görüntüsü 2026-04-30 003640" src="https://github.com/user-attachments/assets/4a7f8516-f11b-4868-bad3-dfa7a758a52f" />
+<img width="1053" height="521" alt="Ekran görüntüsü 2026-04-30 003648" src="https://github.com/user-attachments/assets/019d69d5-ece4-41e3-9b48-c4bab6c105eb" />
 
 ### 3D Render
-![PCB 3D Render](images/pcb_3d.png)
+<img width="745" height="789" alt="Ekran görüntüsü 2026-04-30 003614" src="https://github.com/user-attachments/assets/9798a90b-dbca-4cb0-9975-740d2a59552e" />
 
 ## 🚀 Usage Instructions
 1.  **Connection:** Connect the `GND` of the board to the battery pack's negative terminal.
